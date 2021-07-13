@@ -33,7 +33,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Install
 -clone the repo to local machine.
--use the following link (https://github.com/Busiwa24/Microverse-Hello-Project)
+-use the following link (https://github.com/Busiwa24/Hello)
 
 ### Usage
 
